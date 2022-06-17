@@ -1,0 +1,11 @@
+[
+  {
+    "package": "GA4GHclient"
+  },
+  {
+    "package": "GA4GHshiny"
+  },
+  {
+    "package": "Rqc"
+  }
+]

@@ -3,18 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "GA4GHclient"]
-	path = GA4GHclient
-	url = https://github.com/labbcb/ga4ghclient
-	shallow = true
-	registered = true
-[submodule "GA4GHshiny"]
-	path = GA4GHshiny
-	url = https://github.com/labbcb/ga4ghshiny
-	shallow = true
-	registered = true
-[submodule "Rqc"]
-	path = Rqc
-	url = https://github.com/labbcb/rqc
-	shallow = true
-	registered = true

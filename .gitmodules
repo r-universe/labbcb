@@ -13,8 +13,3 @@
 	url = https://github.com/labbcb/ga4ghshiny
 	shallow = true
 	registered = true
-[submodule "Rqc"]
-	path = Rqc
-	url = https://github.com/labbcb/rqc
-	shallow = true
-	registered = true
